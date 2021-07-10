@@ -1,7 +1,7 @@
     updated on: 10th July 2021
 
 <div align=center>
-    <a href="https://warmachine028.github.io/KMeansExample"><img width=200 src="data/img/ico.ico" alt="KMeansExample"></a>
+    <a href="https://warmachine028.github.io/KMeansExample"><img width=200 src="https://github.com/warmachine028/KMeansExample/blob/master/data/img/ico.ico" alt="KMeansExample"></a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> A sleek CLI app for KMeans Clustering </p>
     <a href="https://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>  
     <br>
