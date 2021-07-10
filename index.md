@@ -1,7 +1,7 @@
     updated on: 10th July 2021
 
 <div align=center>
-    <a href="https://warmachine028.github.io/KMeansExample"><img width=200 src="https://github.com/warmachine028/KMeansExample/blob/master/data/img/ico.ico" alt="KMeansExample"></a>
+    <a href="https://warmachine028.github.io/KMeansExample"><img width=200 src="data/img/ico.ico" alt="KMeansExample"></a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> A sleek CLI app for KMeans Clustering </p>
     <a href="https://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>  
     <br>
@@ -9,7 +9,7 @@
     <br>
     <a> <img src="https://img.shields.io/github/stars/warmachine028/KMeansExample?color=lawngreen"></a>
     <a href= "https://github.com/warmachine028/KMeansExample/tree/master/LICENSE"><img src="https://img.shields.io/github/license/warmachine028/KMeansExample?color=orange"></a>
-    <a href="https://github.com/warmachine028/KMeansExmaple/network/members"><img src="https://img.shields.io/github/forks/warmachine028/KMeansExample?color=cyan"></a>
+    <a href="https://github.com/warmachine028/KMeansExample/network/members"><img src="https://img.shields.io/github/forks/warmachine028/KMeansExample?color=cyan"></a>
 </div>
 
 # [KMeansExample](https://github.com/warmachine028/KMeansExample)
@@ -113,6 +113,6 @@ hereafter, the menu interface will guide you.
 
 [matplotlib]: https://pypi.org/project/matplotlib/
 [python 3.x]: https://www.python.org/download/releases/3.0/
-[license]: .github/LICENSE
-[changelog]: .github/CHANGELOG.md
-[preview]: https://github.com/warmachine028/KMeansExample/blob/master/data/img/students.png
+[license]: https://github.com/warmachine028/KMeansExample/tree/master/LICENSE
+[changelog]: https://github.com/warmachine028/KMeansExample/tree/master/.github/CHANGELOG.md
+[preview]: data/img/students.png
