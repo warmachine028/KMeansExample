@@ -115,4 +115,4 @@ hereafter, the menu interface will guide you.
 [python 3.x]: https://www.python.org/download/releases/3.0/
 [license]: .github/LICENSE
 [changelog]: .github/CHANGELOG.md
-[preview]: data/img/students.png
+[preview]: https://github.com/warmachine028/KMeansExample/blob/master/data/img/students.png
