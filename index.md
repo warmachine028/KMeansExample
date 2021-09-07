@@ -1,4 +1,4 @@
-    updated on: 10th July 2021
+    updated on: 7th September 2021
 
 <div align=center>
     <a href="https://warmachine028.github.io/KMeansExample"><img width=200 src="data/img/ico.ico" alt="KMeansExample"></a>
@@ -16,8 +16,8 @@
 
 ## Whats new?
 
-- Added a GUI Prompt component to select a csv file
-- Added plot for cluster epicenters
+- Bar Plot Visualization of number of points in each cluster
+- Pie Plot Visualization of Weightage of Clusters in overall
 
 ## Table of Contents
 
@@ -39,6 +39,8 @@ KMeansExample is a simple implementation of the K Means clustering Algorithm in 
 - Graphic preview of clusters
 - Naming of clusters
 - Making Predictions
+- Bar Chart of number of points per cluster
+- Pie Chart of Cluster Weightage
 
 ## Getting Started
 
@@ -55,7 +57,7 @@ $ pip install matplotlib
 
 ### Installation
 
-KMeansExample doesn't need to be installed, just run main.py with no parameters.
+KMeansExample doesn't need to be installed, just run main.py without parameters.
 
 ```sh
 $ python3 main.py
@@ -94,16 +96,37 @@ hereafter, the menu interface will guide you.
 
 ## TODOs
 
-- Reduce and optimise code
+- Add more functionalities
 
 ## ChangeLog
 
 - See [CHANGELOG]
 
-## Preview
+## Preview for _students.csv_
 
-- Rich plotting of Clusters in a dataset _students.csv_
+- Prediction Tool
+
+```
+  Enter action: 4
+  Enter Student's Attendance: 85
+  Enter Student's Marks: 90
+  Probability for Cluster 1: 77.36%
+  Probability for Cluster 2: 61.99%
+  Probability for Cluster 3: 93.16%
+  Probability for Cluster 4: 67.50%
+```
+
+- Rich plotting of Clusters  
   ![Preview]
+
+- Bar Chart Representation  
+  ![bar_chart]
+
+- Pie Chart Representation  
+  ![pie_chart]
+
+- Raw Data Records  
+  ![raw_records]
 
 ## License
 
@@ -115,4 +138,7 @@ hereafter, the menu interface will guide you.
 [python 3.x]: https://www.python.org/download/releases/3.0/
 [license]: https://github.com/warmachine028/KMeansExample/tree/master/LICENSE
 [changelog]: https://github.com/warmachine028/KMeansExample/tree/master/.github/CHANGELOG.md
-[preview]: data/img/Students.png
+[raw_records]: data/img/Basic_Preview.png
+[preview]: data/img/Scatter_Plotting.png
+[bar_chart]: data/img/Bar_plotting.png
+[pie_chart]: data/img/Pie_plotting.png
